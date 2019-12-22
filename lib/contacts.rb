@@ -19,7 +19,7 @@ contacts.each do |name, data|
   if name == "Freddy Mercury"
     contacts.each do |attribute, value|
     if attribute == :favorite_ice_cream_flavors
-      binding.pry
+    binding.pry
     end
   end
   end
