@@ -26,4 +26,4 @@ contacts.each do |name, data|
   end
   end
 end
-end
+
