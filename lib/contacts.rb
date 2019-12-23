@@ -22,8 +22,8 @@ contacts.each do |name, data|
       data.delete_if {|ice_cream| ice_cream == "strawberry"}
       data
     #binding.pry
-    end
-  end
   end
 end
-
+end
+end
+end
